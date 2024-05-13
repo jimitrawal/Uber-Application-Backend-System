@@ -1,4 +1,4 @@
-# Uber_System
+# Uber Application Backend System
 
 TMUber is a simple java backend (command-line based) simulation of an Uber-like application. It allows users to register as drivers or users, request rides, request food deliveries, and perform various other actions typically found in ride-sharing and delivery services.
 
